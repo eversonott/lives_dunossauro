@@ -1,4 +1,5 @@
 """
+0:06:57.100544
 Primeira etapa do problema:
     - Fazer download das imagens dos 100 primeiros pokemons da pokeapi
     """

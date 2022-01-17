@@ -12,4 +12,5 @@
 ### Live 50 - Agendando Tarefas 
 - [Repositório](https://github.com/eversonott/lives_dunossauro/tree/main/live_50_agendamento_tarefas)
 
-
+### Live 139 - SQLAlchemy
+- [Repositório](https://github.com/eversonott/lives_dunossauro/tree/main/live_139_sqlalchemy_orm)

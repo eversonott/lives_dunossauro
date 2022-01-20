@@ -6,8 +6,10 @@ authors = ["Everson Ott <everson.ott@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+SQLAlchemy = "^1.4.29"
 
 [tool.poetry.dev-dependencies]
+ipython = "^8.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
